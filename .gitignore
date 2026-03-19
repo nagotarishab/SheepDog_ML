@@ -1,0 +1,6 @@
+checkpoints/
+data/
+*.pkl
+*.m
+*.pt
+*.pth
